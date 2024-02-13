@@ -1,0 +1,32 @@
+package:
+  name: phileo
+  version: "0.0.1"
+
+source:
+  path: ./
+
+builD:
+  number: 0
+  script: "$PYTHON -m pip install . --no-deps --ignore-installed -vv "
+  noarch: python
+
+requirements:
+  build:
+    - python
+    - setuptools
+
+  run:
+    - python
+    - gdal
+    - numba
+
+test:
+  imports:
+    - phileo
+
+about:
+  home: https://github.com/casperfibaek/phileo/
+  license: MIT
+  license_family: MIT
+  license_file: LICENSE
+  summary: "AI-Driven Workflows for Copernicus Data."
