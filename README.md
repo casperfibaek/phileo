@@ -81,7 +81,8 @@ Bench of of the various models provided and other from litterature is available 
 ### Tutorials
 We provide a series of tutorials to help you get started with the toolbox. The tutorials cover a range of topics, including how to load and preprocess Copernicus data, how to use the foundation models, and how to build your own models and tools. The tutorials are designed to be easy to follow and easy to understand, and are a great way to get started with the toolbox.
 
-
+- https://github.com/casperfibaek/phileo/blob/main/tutorials/CCAI_Tutorial_on_Flood_Monitoring_Part_I_People.ipynb
+- https://github.com/casperfibaek/phileo/blob/main/tutorials/CCAI_Tutorial_on_Flood_Monitoring_Part_II_Water.ipynb
 
 ### Contributing
 We welcome contributions from the community. If you would like to contribute to PhilEO, please see our [contributing guidelines](CONTRIBUTING.md).
