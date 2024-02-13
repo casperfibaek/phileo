@@ -78,5 +78,10 @@ Bench of of the various models provided and other from litterature is available 
 
 ![alt text](images/results_nshot_lc.png "Experimental results on models and downstream tasks")
 
+### Tutorials
+We provide a series of tutorials to help you get started with the toolbox. The tutorials cover a range of topics, including how to load and preprocess Copernicus data, how to use the foundation models, and how to build your own models and tools. The tutorials are designed to be easy to follow and easy to understand, and are a great way to get started with the toolbox.
+
+
+
 ### Contributing
 We welcome contributions from the community. If you would like to contribute to PhilEO, please see our [contributing guidelines](CONTRIBUTING.md).
