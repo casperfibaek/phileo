@@ -73,5 +73,10 @@ This model series is based on a modern version of the CNN architecture, includin
 
 ! _Under development_ !
 
+### Benchmarks
+Bench of of the various models provided and other from litterature is available in the phileo-bench repository [phileo-bench](https://github.com/ESA-PhiLab/phileo-bench).
+
+![alt text](images/results_nshot_lc.png "Experimental results on models and downstream tasks")
+
 ### Contributing
 We welcome contributions from the community. If you would like to contribute to PhilEO, please see our [contributing guidelines](CONTRIBUTING.md).
